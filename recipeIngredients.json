@@ -1,0 +1,122 @@
+{
+    "Masala Karela": [
+      {
+        "Item": "Bitter Gourd",
+        "Quantity": 2,
+        "Unit": "pcs",
+        "Type": "thinly sliced"
+      },
+      {
+        "Item": "Onion",
+        "Quantity": 1,
+        "Unit": "pcs",
+        "Type": "finely chopped"
+      },
+      {
+        "Item": "Tomato",
+        "Quantity": 1,
+        "Unit": "pcs",
+        "Type": "chopped"
+      },
+      {
+        "Item": "Turmeric Powder",
+        "Quantity": 0.5,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Red Chili Powder",
+        "Quantity": 1,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Coriander Powder",
+        "Quantity": 1,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Salt",
+        "Quantity": "as per taste",
+        "Unit": "",
+        "Type": "granulated"
+      },
+      {
+        "Item": "Mustard Seeds",
+        "Quantity": 0.5,
+        "Unit": "tsp",
+        "Type": "whole"
+      },
+      {
+        "Item": "Oil",
+        "Quantity": 2,
+        "Unit": "tbsp",
+        "Type": "for frying"
+      }
+    ],
+    
+    "Paneer Tikka Masala": [
+      {
+        "Item": "Paneer",
+        "Quantity": 200,
+        "Unit": "grams",
+        "Type": "cubed"
+      },
+      {
+        "Item": "Yogurt",
+        "Quantity": 3,
+        "Unit": "tbsp",
+        "Type": "whisked"
+      },
+      {
+        "Item": "Ginger-Garlic Paste",
+        "Quantity": 1,
+        "Unit": "tsp",
+        "Type": "paste"
+      },
+      {
+        "Item": "Red Chili Powder",
+        "Quantity": 1,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Turmeric Powder",
+        "Quantity": 0.5,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Garam Masala",
+        "Quantity": 1,
+        "Unit": "tsp",
+        "Type": "powdered"
+      },
+      {
+        "Item": "Bell Peppers",
+        "Quantity": 1,
+        "Unit": "pcs",
+        "Type": "diced"
+      },
+      {
+        "Item": "Onion",
+        "Quantity": 1,
+        "Unit": "pcs",
+        "Type": "diced"
+      },
+      {
+        "Item": "Oil",
+        "Quantity": 2,
+        "Unit": "tbsp",
+        "Type": "for frying"
+      },
+      {
+        "Item": "Salt",
+        "Quantity": "as per taste",
+        "Unit": "",
+        "Type": "granulated"
+      }
+    ]
+  }
+  
