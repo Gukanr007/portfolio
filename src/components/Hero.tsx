@@ -57,7 +57,7 @@ const Hero = () => {
                 className="border-2 border-gray-300 hover:border-gray-400 px-8 py-3 text-lg transform hover:scale-105 transition-all duration-300"
                 onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/10bpSPUws60vwlB1nPHP0rrEQ2Rx5V2-E/view?usp=sharing",
+                    import.meta.env.VITE_RESUME_LINK,
                     "_blank"
                   )
                 }

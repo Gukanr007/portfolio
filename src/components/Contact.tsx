@@ -16,7 +16,7 @@ const Contact = () => {
 
   const handleResumeDownload = () => {
     window.open(
-      "https://drive.google.com/file/d/10bpSPUws60vwlB1nPHP0rrEQ2Rx5V2-E/view?usp=sharing",
+      import.meta.env.VITE_RESUME_LINK,
       "_blank"
     );
   };
